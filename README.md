@@ -1,4 +1,4 @@
-# cannelloni
+# Spätzle
 *a SocketCAN over Ethernet tunnel*
 
 [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#cannelloni:matrix.org)
